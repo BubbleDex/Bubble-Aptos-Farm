@@ -1,4 +1,4 @@
-# BubbleSwap-Staking
+# BubbleSwap-Farm
 
 **BubbleSwap** is CLMM protocol for [Aptos](https://www.aptos.com/) blockchain. 
 
