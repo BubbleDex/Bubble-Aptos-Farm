@@ -1,0 +1,10 @@
+[package]
+name = "AutoAni"
+version = "0.0.1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "devnet" }
+MasterChef = { local= "../MasterChef" }
+
+[addresses]
+MasterChefDepolyer = "0x3e8c3184eef4aba3a91e2d99a08c47354320bc0b4d3ce7d5216d58ecacc0ef78"
